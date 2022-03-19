@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         //if true we can get the snippits which are unimplemented
         //if false we can run the methods
-        dryRun = true,
+        dryRun = false,
         tags ="@wip"
 
 
